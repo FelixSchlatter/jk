@@ -76,12 +76,13 @@
 				15 Jahren Erfahrung in<br />
 				der Entwicklung von<br />
 				<br /><br />
-				– Brand Tonality/Text<br />
-				– Brand Identity<br />
-				– Brand Architecture
+				<ul>
+					<li>Brand Tonality/Text</li>
+					<li>Brand Identity</li>
+					<li>Brand Architecture</li>
+				</ul>
 				<br /><br /><br /><br />
-				Kontakt<br />
-				<a href="mailto:branding@kapteyn.space">branding@kapteyn.space</a>
+				<a href="mailto:branding@kapteyn.space">Email</a>
 				</div>
 				<div class="slidenav slidenav_two"> &larr; Zurück </div>
 			</div>
