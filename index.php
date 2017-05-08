@@ -63,14 +63,16 @@
 
 	<section id="container">
 		<article id="one" class="buehne">
-			yo1
+			<div class="buehne_inside">
+				<div class="logo"><img src="images/logo.svg" alt="Branding Jan Kapteyn Logo" /></div>
+			</div>
 		</article>
 	
 		<article id="two" class="buehne">
-			yo2
+			<div class="buehne_inside">content</div>
 		</article>
 	</section>
-	
+
 </div>
 
 </body>
