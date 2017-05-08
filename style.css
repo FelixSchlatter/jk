@@ -52,8 +52,7 @@ body {
 .buehne_inside {
   position: relative;
   padding:50px;
-  height: calc(100vh - 100px);
-  width: calc(100vw - 100px);
+
 }
 .moved {
   margin-left: -100%;
