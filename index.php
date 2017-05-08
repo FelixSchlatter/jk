@@ -59,16 +59,16 @@
 <script> if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){document.write('<style></style>'); }</script>
 
 
-<div id="supercontainer" class="clearfix">
+<div id="supercontainer" class="clearfix fullheight">
 
-	<section id="container">
-		<article id="one" class="buehne">
+	<section id="container" class="fullheight">
+		<article id="one" class="buehne fullheight">
 			<div class="buehne_inside">
 				<div class="logo"><img src="images/logo.svg" alt="Branding Jan Kapteyn Logo" /></div>
 			</div>
 		</article>
 	
-		<article id="two" class="buehne">
+		<article id="two" class="buehne fullheight">
 			<div class="buehne_inside">content</div>
 		</article>
 	</section>
