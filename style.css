@@ -1,0 +1,49 @@
+/*
+    Theme Name: Branding. Jan Kapteyn
+    Theme URI: http://www.schwizerschlatter.com;
+    Description: Branding. Jan Kapteyn
+    Version: 1.0
+    Author: Felix Schlatter
+    Author URI: http://schwizerschlatter.com
+    Tags: No Tags
+
+*/
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+html, body {
+    height: 100%;
+}
+body {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+    margin:0px;
+    padding: 0px;
+    background-color: #005a87;
+    color: #fff;
+}
+
+
+#container {
+  width: 100vw;
+  min-height: 100vh;
+}
+
+
+
+
+
+
+@media (max-width: 830px) { 
+
+}
+
+
+
+
