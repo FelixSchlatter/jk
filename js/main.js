@@ -1,9 +1,17 @@
 $(document).ready(function(){
 
-$('.load').delay(1500).fadeOut();
+$('.load').delay(1000).fadeOut();
 
-$('#container').delay(1700).queue(function(){
+$('#container').delay(1600).queue(function(){
     $(this).removeClass("welcomemoved").dequeue();
+});
+
+$('.logo').delay(2000).queue(function(){
+    $(this).removeClass("logo_welcome").dequeue();
+});
+
+$('.slidenav_one').delay(2000).queue(function(){
+    $(this).removeClass("slidenav_one_welcome").dequeue();
 });
 
 

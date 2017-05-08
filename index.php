@@ -64,8 +64,8 @@
 	<section id="container" class="fullheight welcomemoved">
 		<article id="one" class="buehne fullheight">
 			<div class="buehne_inside">
-				<div class="logo"><img src="images/logo.svg" alt="Branding Jan Kapteyn Logo" /></div>
-				<div class="slidenav slidenav_one">Zum Branding am Zürichsee &rarr; </div>
+				<div class="logo logo_welcome"><img src="images/logo.svg" alt="Branding Jan Kapteyn Logo" /></div>
+				<div class="slidenav slidenav_one slidenav_one_welcome">Zum Branding am Zürichsee &rarr; </div>
 			</div>
 		</article>
 	
@@ -83,7 +83,7 @@
 				Kontakt<br />
 				<a href="mailto:branding@kapteyn.space">branding@kapteyn.space</a>
 				</div>
-				<div class="slidenav slidenav_two"> &larr; Zurück zum Start </div>
+				<div class="slidenav slidenav_two"> &larr; Zurück </div>
 			</div>
 		</article>
 	</section>
