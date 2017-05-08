@@ -24,6 +24,7 @@ body {
    font-family:"Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light",  Helvetica, Arial, "Lucida Grande", sans-serif; 
    font-weight: 400;
    font-size: 24px;
+   line-height: 22px;
     margin:0px;
     padding: 0px;
     background-color: #005a87;
@@ -235,3 +236,17 @@ body {
   } 
 }
 
+
+@media (max-height: 430px) { 
+  .slidenav {
+    position: unset; 
+    left:unset;
+    bottom: unset;
+    padding-top: 50px;
+  }
+  .slidenav_two {
+    padding-top: 20px;
+    padding-left: 40%;
+  }
+  
+}

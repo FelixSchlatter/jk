@@ -72,9 +72,11 @@
 		<article id="two" class="buehne fullheight">
 			<div class="buehne_inside">
 				<div class="content">
-				Profitieren Sie von<br />
-				15 Jahren Erfahrung in<br />
-				der Entwicklung von<br />
+				<div class="lauftext">
+				Profitieren Sie von
+				15 Jahren Erfahrung in
+				der Entwicklung von
+				</div>
 				<br /><br />
 				<ul>
 					<li>Brand Tonality/Text</li>
