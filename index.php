@@ -65,6 +65,7 @@
 		<article id="one" class="buehne fullheight">
 			<div class="buehne_inside">
 				<div class="logo"><img src="images/logo.svg" alt="Branding Jan Kapteyn Logo" /></div>
+				<div class="mail"><a href="mailto:branding.kapteyn@t-online.de">branding.kapteyn@t-online.de</a></div>
 			</div>
 		</article>
 	
