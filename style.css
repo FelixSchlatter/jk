@@ -48,7 +48,7 @@ body {
   overflow: hidden;
 }
 #container {
-  cursor: pointer;
+ 
   width: 200vw;
   overflow-x: hidden;
   -webkit-transition: all 0.7s ease-in-out;
@@ -58,15 +58,20 @@ body {
   transition:         all 0.7s ease-in-out;
 }
 .buehne {
+  position: relative;
   width: 100vw;
   float: left;
   background-size: auto 100% ;
   background-repeat: no-repeat;
 }
 .buehne_inside {
-  position: relative;
+  position: absolute;
   padding:50px;
-
+  height: calc(100% - 100px);
+  width: calc(100% - 100px);
+}
+.welcomemoved {
+  margin-left: 100%;
 }
 .moved {
   margin-left: -100%;
@@ -74,14 +79,14 @@ body {
 #one {
   background-color: #fff;
   color: #005a87;
-  background-image: url("images/anchor_l.svg");
+  background-image: url("images/anchor_l_cutted.svg");
   background-position: bottom right;
 
 }
 #two {
   background-color: #005a87;
   color: #fff;
-  background-image: url("images/anchor_r.svg");
+  background-image: url("images/anchor_r_cutted.svg");
   background-position: bottom left;
 }
 .logo {
@@ -99,16 +104,45 @@ a {
   padding-top: 100px;
   
 }
-.adresse {
-  padding-left: calc(50vw - 100px);
-  padding-top: calc(50vh - 100px);
+.content {
+    cursor: pointer;
+   left:50%;
+   top:50%;
+   position: absolute;
+     -ms-transform: translateY(-50%);
+-moz-transform:     translateY(-50%);
+-webkit-transform:  translateY(-50%);
+    transform:      translateY(-50%);
+
+}
+.content a {
+  color: #fff;
+}
+.slidenav {
+   cursor: pointer;
+   bottom:50px;
+   position: absolute;
+}
+.slidenav_one {
+  left:50px;
+}
+.slidenav_two {
+  left:50%;
 }
 
 
 
-
-
 @media (max-width: 830px) { 
+#one {
+  background-image: url("images/anchor_l_cutted.svg");
+  background-position: bottom right;
+
+}
+#two {
+  background-image: url("images/anchor_r_cutted.svg");
+  background-position: bottom left;
+}
+
 
 }
 

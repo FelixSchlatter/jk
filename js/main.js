@@ -2,7 +2,12 @@ $(document).ready(function(){
 
 $('.load').delay(1500).fadeOut();
 
-$('#container').click(function() { 
+$('#container').delay(1700).queue(function(){
+    $(this).removeClass("welcomemoved").dequeue();
+});
+
+
+$('.slidenav').click(function() { 
     $('#container').toggleClass('moved');
 });
 

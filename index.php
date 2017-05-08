@@ -61,23 +61,29 @@
 <div class="load"></div>
 <div id="supercontainer" class="clearfix fullheight">
 
-	<section id="container" class="fullheight">
+	<section id="container" class="fullheight welcomemoved">
 		<article id="one" class="buehne fullheight">
 			<div class="buehne_inside">
 				<div class="logo"><img src="images/logo.svg" alt="Branding Jan Kapteyn Logo" /></div>
-				<div class="mail"><a href="mailto:branding.kapteyn@t-online.de">branding.kapteyn@t-online.de</a></div>
+				<div class="slidenav slidenav_one">Zum Branding am Zürichsee &rarr; </div>
 			</div>
 		</article>
 	
 		<article id="two" class="buehne fullheight">
 			<div class="buehne_inside">
-				<div class="adresse">
-				Kapteyn Branding <br />
-				Staldenbachstrasse 11<br />
-				8808 Pfäffikon SZ <br />
-				Schweiz<br /><br />
-				+41 77 453 70 47
+				<div class="content">
+				Profitieren Sie von<br />
+				15 Jahren Erfahrung in<br />
+				der Entwicklung von<br />
+				<br /><br />
+				– Brand Tonality/Text<br />
+				– Brand Identity<br />
+				– Brand Architecture
+				<br /><br /><br /><br />
+				Kontakt<br />
+				<a href="mailto:branding@kapteyn.space">branding@kapteyn.space</a>
 				</div>
+				<div class="slidenav slidenav_two"> &larr; Zurück zum Start </div>
 			</div>
 		</article>
 	</section>
