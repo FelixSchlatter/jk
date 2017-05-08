@@ -12,13 +12,14 @@ $('.fullheight').css('height', $(window).height());
 
 var resizeTimer,
 $window = $(window);
-function imageresize() {
-    
-    $('.fullheight').css('height', $(window).height());
 
+function imageresize() {
+    $('.fullheight').css('height', $(window).height());
     if ($window.width() < 780) {}
 }
 imageresize();
+
+
 $window.resize(function() {
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(imageresize, 100);

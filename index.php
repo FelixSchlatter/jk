@@ -58,7 +58,7 @@
 
 <script> if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){document.write('<style></style>'); }</script>
 
-
+<div class="resize"></div>
 <div id="supercontainer" class="clearfix fullheight">
 
 	<section id="container" class="fullheight">
@@ -70,7 +70,15 @@
 		</article>
 	
 		<article id="two" class="buehne fullheight">
-			<div class="buehne_inside">content</div>
+			<div class="buehne_inside">
+				<div class="adresse">
+				Kapteyn Branding <br />
+				Staldenbachstrasse 11<br />
+				8808 Pfäffikon SZ <br />
+				Schweiz<br /><br />
+				+41 77 453 70 47
+				</div>
+			</div>
 		</article>
 	</section>
 

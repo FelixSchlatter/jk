@@ -23,12 +23,21 @@ html, body {
 body {
    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
    font-weight: 300;
+   font-size: 24px;
     margin:0px;
     padding: 0px;
     background-color: #005a87;
     color: #fff;
 }
-
+.resize {
+  display: none;
+  position: fixed;
+  top:0px;
+  bottom:0px;
+  left: 0px;
+  right: 0px;
+  background-color: #005a87;
+}
 #supercontainer {
   width: 100vw;
   overflow: hidden;
@@ -82,11 +91,13 @@ a {
   color: #005a87;
 }
 .mail {
-  position: absolute;
-  bottom: 50px;
-  font-size: 24px;
+  padding-top: 100px;
+  
 }
-
+.adresse {
+  padding-left: calc(50vw - 100px);
+  padding-top: calc(50vh - 100px);
+}
 
 
 
