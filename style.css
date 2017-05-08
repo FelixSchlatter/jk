@@ -29,13 +29,18 @@ body {
     background-color: #005a87;
     color: #fff;
 }
-.resize {
-  display: none;
+
+
+.load {
   position: fixed;
+  z-index: 999;
   top:0px;
   bottom:0px;
   left: 0px;
   right: 0px;
+  background-image: url("images/ring-alt.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
   background-color: #005a87;
 }
 #supercontainer {

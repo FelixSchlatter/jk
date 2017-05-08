@@ -1,5 +1,6 @@
 $(document).ready(function(){
 
+$('.load').delay(1500).fadeOut();
 
 $('#container').click(function() { 
     $('#container').toggleClass('moved');

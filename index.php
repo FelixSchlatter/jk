@@ -58,7 +58,7 @@
 
 <script> if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){document.write('<style></style>'); }</script>
 
-<div class="resize"></div>
+<div class="load"></div>
 <div id="supercontainer" class="clearfix fullheight">
 
 	<section id="container" class="fullheight">
