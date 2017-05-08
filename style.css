@@ -24,7 +24,7 @@ body {
    font-family:"Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light",  Helvetica, Arial, "Lucida Grande", sans-serif; 
    font-weight: 400;
    font-size: 24px;
-   line-height: 22px;
+   line-height: 26px;
     margin:0px;
     padding: 0px;
     background-color: #005a87;
@@ -118,6 +118,7 @@ a {
    left:50%;
    top:50%;
    position: absolute;
+   display: block;
      -ms-transform: translateY(-50%);
 -moz-transform:     translateY(-50%);
 -webkit-transform:  translateY(-50%);
@@ -147,12 +148,17 @@ a {
 }
 .slidenav_two {
   left:50%;
+  bottom:50px;
 }
-
+.lauftext {
+  display: block;
+  max-width: 600px;
+  padding-bottom: 20px;
+}
 ul {
   padding:0px;
   margin:0px;
-
+  padding-bottom: 50px;
 }
 ul li {
   list-style: none;
@@ -228,7 +234,7 @@ body {
     left: unset;
     top: unset;
     padding-left: 40%;
-    position: relative;
+    position: unset;
     -ms-transform: none;
     -moz-transform: none;
     -webkit-transform: none;
@@ -248,5 +254,18 @@ body {
     padding-top: 20px;
     padding-left: 40%;
   }
+  ul {
+    padding-bottom: 10px;
+  }
+  .content {
+    left: unset;
+    top: unset;
+    padding-left: 40%;
+    position: unset;
+    -ms-transform: none;
+    -moz-transform: none;
+    -webkit-transform: none;
+    transform: none;
+  } 
   
 }

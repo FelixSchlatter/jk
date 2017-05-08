@@ -77,13 +77,13 @@
 				15 Jahren Erfahrung in
 				der Entwicklung von
 				</div>
-				<br /><br />
+	
 				<ul>
 					<li>Brand Tonality/Text</li>
 					<li>Brand Identity</li>
 					<li>Brand Architecture</li>
 				</ul>
-				<br /><br /><br /><br />
+			
 				<a href="mailto:branding@kapteyn.space">Email</a>
 				</div>
 				<div class="slidenav slidenav_two"> &larr; Zurück </div>
