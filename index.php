@@ -59,13 +59,19 @@
 <script> if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){document.write('<style></style>'); }</script>
 
 
-<section id="container">
-	<article id="one">
-	</article>
+<div id="supercontainer" class="clearfix">
 
-	<article id="two">
-	</article>
-</section>
+	<section id="container">
+		<article id="one" class="buehne">
+			yo1
+		</article>
+	
+		<article id="two" class="buehne">
+			yo2
+		</article>
+	</section>
+	
+</div>
 
 </body>
 </html>

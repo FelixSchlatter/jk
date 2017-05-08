@@ -29,15 +29,44 @@ body {
     color: #fff;
 }
 
-
+#supercontainer {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
 #container {
+  width: 200vw;
+  height: 100vh;
+  overflow-x: hidden;
+  -webkit-transition: all 0.7s ease-in-out;
+  -moz-transition:    all 0.7s ease-in-out;
+  -o-transition:      all 0.7s ease-in-out;
+  -ms-transition:     all 0.7s ease-in-out;
+  transition:         all 0.7s ease-in-out;
+}
+#container .buehne {
   width: 100vw;
   min-height: 100vh;
+  float: left;
+  background-size: auto 100% ;
+  background-repeat: no-repeat;
 }
+.moved {
+  margin-left: -100%;
+}
+#one {
+  background-color: #fff;
+  color: #005a87;
+  background-image: url("images/anchor_l.svg");
+  background-position: bottom right;
 
-
-
-
+}
+#two {
+  background-color: #005a87;
+  color: #fff;
+  background-image: url("images/anchor_r.svg");
+  background-position: bottom left;
+}
 
 
 @media (max-width: 830px) { 
