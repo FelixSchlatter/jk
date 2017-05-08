@@ -6,15 +6,15 @@ $('#container').click(function() {
 });
 
 
-/*
+
 var fullheight = $(window).height();
-$('.fullheight').height(fullheight);
+$('.fullheight').css('height', $(window).height());
 
 var resizeTimer,
 $window = $(window);
 function imageresize() {
-    var fullheight = $(window).height();
-    $('.fullheight').height(fullheight);
+    
+    $('.fullheight').css('height', $(window).height());
 
     if ($window.width() < 780) {}
 }
@@ -24,7 +24,7 @@ $window.resize(function() {
     resizeTimer = setTimeout(imageresize, 100);
 });
 
-*/
+
 
 
 }); // ende doc ready
