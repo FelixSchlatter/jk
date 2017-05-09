@@ -41,7 +41,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="/reset.css" />
-<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet"> 
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
 <link rel="stylesheet" href="/style.css" />
 <script type="text/javascript" src="/js/vendor/jquery.js"></script>
@@ -51,7 +50,6 @@
 </head>
 <body>
 
-<script> if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){document.write('<style></style>'); }</script>
 
 <div class="load"></div>
 <div id="supercontainer" class="clearfix fullheight">
