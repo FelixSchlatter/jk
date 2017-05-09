@@ -75,7 +75,7 @@
 			<div class="buehne_inside">
 				<div class="content">
 				<div class="lauftext">
-				Branding am Zürichsee – 15 Jahre Erfahrung in den Bereichen
+				Branding am Zürichsee – <nobr>15 Jahre</nobr> Erfahrung in den Bereichen
 				</div>
 	
 				<ul>
