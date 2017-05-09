@@ -21,15 +21,15 @@ html, body {
     height: 100%;
 }
 body {
-  /*
-   font-family:"Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light",  Helvetica, Arial, "Lucida Grande", sans-serif; 
-   font-weight: 400;
-   */
 
-    font-family: 'Roboto', sans-serif;
 
+
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-weight: 400;
    font-size: 24px;
-   line-height: 26px;
+   line-height: 32px;
     margin:0px;
     padding: 0px;
     background-color: #005a87;
@@ -130,6 +130,13 @@ a {
     transform:      translateY(-50%);
 
 }
+.email {
+  display: inline-block;
+  padding:5px;
+  background-color: #fff;
+  color: #005a87;
+}
+
 .content a {
   color: #fff;
 }

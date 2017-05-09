@@ -49,6 +49,7 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="/reset.css" />
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
 <link rel="stylesheet" href="/style.css" />
 <script type="text/javascript" src="/js/vendor/jquery.js"></script>
 <script type="text/javascript" src="/js/plugins.js"></script>
@@ -83,7 +84,7 @@
 					<li>Brand Portfolio</li>
 				</ul>
 			
-				<a href="mailto:branding@kapteyn.space">Email</a>
+				<a href="mailto:branding@kapteyn.space"><div class="email">Email</div></a>
 				</div>
 				<div class="slidenav slidenav_two"></div>
 			</div>
