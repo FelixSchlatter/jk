@@ -286,5 +286,10 @@ ul li {
     -webkit-transform: none;
     transform: none;
   } 
+  .email {
+  position: absolute;
+  right:40px;
+  bottom:70px;
+}
   
 }
