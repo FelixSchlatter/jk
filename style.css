@@ -130,11 +130,20 @@ a {
     transform:      translateY(-50%);
 
 }
+a .email {
+  text-decoration: none;
+}
 .email {
-  display: inline-block;
-  padding:5px;
-  background-color: #fff;
-  color: #005a87;
+  position: absolute;
+  right:40px;
+  bottom:40px;
+  text-decoration: none;
+  display: block;
+  background-image: url("images/email2.svg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 30px;
 }
 
 .content a {
@@ -243,7 +252,7 @@ ul li {
 
 @media (max-width: 460px) { 
   #one, #two {
-    background-size: 80% auto;
+    background-size: 70% auto;
   }
   .content {
     left: unset;
