@@ -239,7 +239,9 @@ body {
 }
 
 @media (max-width: 460px) { 
- 
+  #one, #two {
+    background-size: 80% auto;
+  }
   .content {
     left: unset;
     top: unset;
