@@ -2,18 +2,11 @@
 <!-- 
 
 
-
-
-	Corporate Design, 
 	Web Interaction Design & Code by
 
 	www.schwizerschlatter.com
 	
 	THX for having a look into the source!
-
-
-
-
 
 
 
