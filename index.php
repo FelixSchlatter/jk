@@ -48,6 +48,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="/reset.css" />
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet"> 
 <link rel="stylesheet" href="/style.css" />
 <script type="text/javascript" src="/js/vendor/jquery.js"></script>
 <script type="text/javascript" src="/js/plugins.js"></script>
@@ -65,7 +66,7 @@
 		<article id="one" class="buehne fullheight">
 			<div class="buehne_inside">
 				<div class="logo logo_welcome"><img src="images/logo.svg" alt="Branding Jan Kapteyn Logo" /></div>
-				<div class="slidenav slidenav_one slidenav_one_welcome">Zum Branding am Zürichsee &rarr; </div>
+				<div class="slidenav slidenav_one"></div>
 			</div>
 		</article>
 	
@@ -73,20 +74,18 @@
 			<div class="buehne_inside">
 				<div class="content">
 				<div class="lauftext">
-				Profitieren Sie von
-				15 Jahren Erfahrung in
-				der Entwicklung von
+				Branding am Zürichsee – 15 Jahre Erfahrung in den Bereichen
 				</div>
 	
 				<ul>
-					<li>Brand Tonality/Text</li>
+					<li>Brand Language</li>
 					<li>Brand Identity</li>
-					<li>Brand Architecture</li>
+					<li>Brand Portfolio</li>
 				</ul>
 			
 				<a href="mailto:branding@kapteyn.space">Email</a>
 				</div>
-				<div class="slidenav slidenav_two"> &larr; Zurück </div>
+				<div class="slidenav slidenav_two"></div>
 			</div>
 		</article>
 	</section>

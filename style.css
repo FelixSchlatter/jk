@@ -21,8 +21,13 @@ html, body {
     height: 100%;
 }
 body {
+  /*
    font-family:"Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light",  Helvetica, Arial, "Lucida Grande", sans-serif; 
    font-weight: 400;
+   */
+
+    font-family: 'Roboto', sans-serif;
+
    font-size: 24px;
    line-height: 26px;
     margin:0px;
@@ -130,25 +135,26 @@ a {
 }
 .slidenav {
    cursor: pointer;
-   bottom:50px;
    position: absolute;
+   z-index: 100;
+  width: 50%;
 }
 .slidenav_one {
-  color: #005a87;
-  left:50px;
+  right:0px;
+  bottom:0px;
+  top:0px;
+
     -webkit-transition: all 1s ease-in-out;
   -moz-transition:      all 1s ease-in-out;
   -o-transition:        all 1s ease-in-out;
   -ms-transition:       all 1s ease-in-out;
   transition:           all 1s ease-in-out;
 }
-.slidenav_one_welcome {
-  color: #fff;
-  left:100px;
-}
+
 .slidenav_two {
-  left:50%;
-  bottom:50px;
+  left:0px;
+  top:0px;
+  bottom:0px;
 }
 .lauftext {
   display: block;
@@ -190,16 +196,17 @@ ul li {
   max-width: 200px;
 }  
 body {
-  font-size: 18px;
+  font-size: 16px;
+  line-height: 20px;
 }
 #one {
   background-image: url("images/anchor_l.svg");
-  background-size: 30% auto;
+  background-size: 45% auto;
 
 }
 #two {
   background-image: url("images/anchor_r.svg");
-  background-size: 30% auto;
+  background-size: 45% auto;
 }
 .buehne_inside {
     position: absolute;
@@ -208,15 +215,13 @@ body {
     width: calc(100% - 40px);
   }
 .slidenav_one {
-  left:20px;
-  bottom: 20px;
+    width:50%;
 } 
 .slidenav_two {
-    left: 40%;
-    bottom: 20px;
+    width:50%;
 }
 .content {
-    left: 40%;
+    left: 50%;
     top: 50%;
     position: absolute;
     -ms-transform: translateY(-50%);
@@ -227,13 +232,11 @@ body {
 }
 
 @media (max-width: 460px) { 
-  .slidenav {
-    max-width: 50%;
-  }
+ 
   .content {
     left: unset;
     top: unset;
-    padding-left: 40%;
+    padding-left: 50%;
     position: unset;
     -ms-transform: none;
     -moz-transform: none;
@@ -244,15 +247,10 @@ body {
 
 
 @media (max-height: 430px) { 
-  .slidenav {
-    position: unset; 
-    left:unset;
-    bottom: unset;
-    padding-top: 50px;
+  #one, #two {
+    background-size: auto 100%;
   }
   .slidenav_two {
-    padding-top: 20px;
-    padding-left: 40%;
   }
   ul {
     padding-bottom: 10px;

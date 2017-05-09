@@ -10,9 +10,7 @@ $('.logo').delay(2000).queue(function(){
     $(this).removeClass("logo_welcome").dequeue();
 });
 
-$('.slidenav_one').delay(2000).queue(function(){
-    $(this).removeClass("slidenav_one_welcome").dequeue();
-});
+
 
 
 $('.slidenav').click(function() { 
