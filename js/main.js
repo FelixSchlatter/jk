@@ -20,14 +20,17 @@ $('.slidenav').click(function() {
 
 
 var fullheight = $(window).height();
+var fullwidth = $(window).width();
+
 $('.fullheight').css('height', $(window).height());
+$('.buehne').css('width', $(window).width());
 
 var resizeTimer,
 $window = $(window);
 
 function imageresize() {
     $('.fullheight').css('height', $(window).height());
-    if ($window.width() < 780) {}
+    $('.buehne').css('width', $(window).width());
 }
 imageresize();
 
