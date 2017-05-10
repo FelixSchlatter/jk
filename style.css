@@ -51,13 +51,11 @@ body {
   background-color: #005a87;
 }
 #supercontainer {
-  width: 100vw;
   overflow: hidden;
 }
 #container {
- 
-  width: 200vw;
-  overflow-x: hidden;
+
+  overflow: hidden;
   -webkit-transition: all 0.7s ease-in-out;
   -moz-transition:    all 0.7s ease-in-out;
   -o-transition:      all 0.7s ease-in-out;
@@ -66,7 +64,6 @@ body {
 }
 .buehne {
   position: relative;
-  width: 100vw;
   float: left;
   background-size: auto 100% ;
   background-repeat: no-repeat;
