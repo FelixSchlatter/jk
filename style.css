@@ -95,6 +95,7 @@ body {
 }
 .logo {
   max-width: 300px;
+  height: auto;
   -webkit-transition: all 0.7s ease-in-out;
   -moz-transition:    all 0.7s ease-in-out;
   -o-transition:      all 0.7s ease-in-out;
