@@ -44,10 +44,10 @@ $('#container').css('width', newfullwidth);
 imageresize();
 
 
-$window.resize(function() {
+$(window).resize(function() {
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(imageresize, 100);
-});
+}).resize();
 
 
 
