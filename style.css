@@ -132,15 +132,15 @@ a .email {
 }
 .email {
   position: absolute;
-  right:40px;
-  bottom:40px;
-  text-decoration: none;
-  display: block;
-  background-image: url("images/email2.svg");
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-  width: 40px;
-  height: 30px;
+right: 40px;
+bottom: 40px;
+text-decoration: none;
+display: block;
+background-image: url("images/email2.svg");
+background-size: auto 100%;
+background-repeat: no-repeat;
+width: 106px;
+height: 40px;
 }
 
 .content a {
@@ -286,7 +286,7 @@ ul li {
   .email {
   position: absolute;
   right:40px;
-  bottom:100px;
+  bottom:40px;
 }
   
 }
