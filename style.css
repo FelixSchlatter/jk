@@ -60,7 +60,7 @@ body {
   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
     -moz-box-sizing: border-box;    /* Firefox */
     box-sizing: border-box;
-    
+
   -webkit-transition: all 0.7s ease-in-out;
   -moz-transition:    all 0.7s ease-in-out;
   -o-transition:      all 0.7s ease-in-out;
@@ -145,6 +145,7 @@ display: block;
 background-image: url("images/email2.svg");
 background-size: auto 100%;
 background-repeat: no-repeat;
+background-position: right bottom;
 width: 106px;
 height: 40px;
 }
@@ -293,6 +294,8 @@ ul li {
   position: absolute;
   right:40px;
   bottom:40px;
+  background-size: auto 75%;
+
 }
   
 }
