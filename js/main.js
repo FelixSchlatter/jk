@@ -25,7 +25,9 @@ var fullwidth = $(window).width();
 $('.fullheight').css('height', $(window).height());
 $('.buehne').css('width', $(window).width());
 $('#supercontainer').css('width', $(window).width());
-$('#container').css('width', $(window).width()*2);
+
+var newfullwidth = fullwidth * 2;
+$('#container').css('width', newfullwidth);
 
 
 var resizeTimer,
@@ -35,6 +37,9 @@ function imageresize() {
     $('.fullheight').css('height', $(window).height());
     $('.buehne').css('width', $(window).width());
     $('#supercontainer').css('width', $(window).width());
+
+    var newfullwidth = fullwidth * 2;
+$('#container').css('width', newfullwidth);
 }
 imageresize();
 

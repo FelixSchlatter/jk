@@ -59,7 +59,8 @@
 
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="/reset.css" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
 <link rel="stylesheet" href="/style.css" />
 <script type="text/javascript" src="/js/vendor/jquery.js"></script>
 <script type="text/javascript" src="/js/plugins.js"></script>
@@ -72,7 +73,7 @@
 <div class="load"></div>
 <div id="supercontainer" class="clearfix fullheight">
 
-	<section id="container" class="fullheight welcomemoved">
+	<section id="container" class="fullheight clearfix welcomemoved">
 		<article id="one" class="buehne fullheight">
 			<div class="buehne_inside">
 				<div class="logo logo_welcome"><img src="images/logo.svg" alt="Branding Jan Kapteyn Logo" /></div>
