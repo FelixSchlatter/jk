@@ -74,6 +74,7 @@
 <div id="supercontainer" class="clearfix fullheight">
 
 	<section id="container" class="fullheight clearfix welcomemoved">
+	
 		<article id="one" class="buehne fullheight">
 			<div class="buehne_inside">
 				<div class="logo logo_welcome"><img src="images/logo.png" alt="Branding Jan Kapteyn Logo" /></div>
