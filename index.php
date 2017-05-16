@@ -28,10 +28,9 @@
 <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
 <meta http-equiv="pragma" content="no-cache" />
 <meta property="og:title" content='Branding. Jan Kapteyn' />
-<meta property="og:description" content='Branding. Jan Kapteyng' />
+<meta property="og:description" content='Branding. Jan Kapteyn' />
 <meta property="og:type" content='company' />
 <meta property="og:url" content='Branding. Jan Kapteyn' />
-<meta property="og:image" content='/share.jpg' />
 <meta property="og:site_name" content='Branding. Jan Kapteyn' />
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
