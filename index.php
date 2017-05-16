@@ -90,9 +90,9 @@
 				</div>
 	
 				<ul>
-					<li>Brand Language</li>
-					<li>Brand Identity</li>
-					<li>Brand Portfolio</li>
+					<li>– Brand Language</li>
+					<li>– Brand Identity</li>
+					<li>– Brand Portfolio</li>
 				</ul>
 			
 				
