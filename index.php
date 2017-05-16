@@ -35,7 +35,6 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="format-detection" content="telephone=no">
-
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -53,12 +52,7 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-
-
-
-<meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="/reset.css" />
-
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
 <link rel="stylesheet" href="/style.css" />
 <script type="text/javascript" src="/js/vendor/jquery.js"></script>
@@ -67,42 +61,32 @@
 <script type="text/javascript" src="/js/main.js"></script>
 </head>
 <body>
-
-
 <div class="load"></div>
 <div id="supercontainer" class="clearfix fullheight">
-
 	<section id="container" class="fullheight clearfix welcomemoved">
-
 		<article id="one" class="buehne fullheight">
 			<div class="buehne_inside">
 				<div class="logo logo_welcome"><img src="images/logo.svg" alt="Branding Jan Kapteyn Logo" /></div>
 				<div class="slidenav slidenav_one"></div>
 			</div>
 		</article>
-	
 		<article id="two" class="buehne fullheight">
 			<div class="buehne_inside">
 				<div class="content">
 				<div class="lauftext">
 				Branding am Zürichsee – <nobr>15 Jahre</nobr> Erfahrung in den Bereichen
 				</div>
-	
 				<ul>
 					<li>– Brand Language</li>
 					<li>– Brand Identity</li>
 					<li>– Brand Portfolio</li>
 				</ul>
-			
-				
 				</div>
 				<a href="mailto:branding@kapteyn.space"><div class="email"></div></a>
 				<div class="slidenav slidenav_two"></div>
 			</div>
 		</article>
 	</section>
-
 </div>
-
 </body>
 </html>
