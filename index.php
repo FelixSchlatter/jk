@@ -2,7 +2,7 @@
 <!-- 
 
 
-	Web Interaction Design & Code by
+	Web Interaction & Code by
 
 	www.schwizerschlatter.com
 	
@@ -21,7 +21,7 @@
 <meta name="robots" content="all">
 <meta name="robots" content="index, follow" />
 <meta name="author" content="Branding. Jan Kapteyn">
-<meta name="description" content="Jan Kapteyn Branding" />
+<meta name="description" content="Starke Marken fest verankern – Branding am Zürichsee." />
 <meta http-equiv="cache-control" content="max-age=0" />
 <meta http-equiv="cache-control" content="no-cache" />
 <meta http-equiv="expires" content="0" />
