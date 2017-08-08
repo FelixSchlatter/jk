@@ -88,14 +88,14 @@ body {
 #one {
   background-color: #fff;
   color: #005a87;
-  background-image: url("images/anchor_l_cutted.svg");
+  background-image: url("images/Anker_Icon_Kapteyn_Branding_pos.svg");
   background-position: bottom right;
 
 }
 #two {
   background-color: #005a87;
   color: #fff;
-  background-image: url("images/anchor_r_cutted.svg");
+  background-image: url("images/Anker_Icon_Kapteyn_Branding_neg.svg");
   background-position: bottom left;
 }
 .logo {
@@ -200,12 +200,12 @@ ul li {
 
 @media (max-width: 1050px) { 
 #one {
-  background-image: url("images/anchor_l.svg");
+  background-image: url("images/Branding_JK_Anker_Icon_pos.svg");
   background-size: 40% auto;
 
 }
 #two {
-  background-image: url("images/anchor_r.svg");
+  background-image: url("images/Branding_JK_Anker_Icon_neg.svg");
   background-size: 40% auto;
 }
 }
@@ -223,12 +223,12 @@ ul li {
     /* background:  url('images/line.svg') no-repeat left 7px; */
 }
 #one {
-  background-image: url("images/anchor_l.svg");
+  background-image: url("images/Branding_JK_Anker_Icon_pos.svg");
   background-size: 45% auto;
 
 }
 #two {
-  background-image: url("images/anchor_r.svg");
+  background-image: url("images/Branding_JK_Anker_Icon_neg.svg");
   background-size: 45% auto;
 }
 .buehne_inside {
