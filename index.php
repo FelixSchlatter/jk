@@ -82,7 +82,7 @@
 					<li>– Brand Portfolio</li>
 				</ul>
 				</div>
-				<a href="mailto:branding@kapteyn.space"><div class="email"></div></a>
+				<a href="mailto:messages@kapteyn.space"><div class="email"></div></a>
 				<div class="slidenav slidenav_two"></div>
 			</div>
 		</article>
