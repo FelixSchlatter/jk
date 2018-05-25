@@ -73,13 +73,8 @@
 			<div class="buehne_inside">
 				<div class="content">
 				<div class="lauftext">
-				Branding am Zürichsee – <nobr>15 Jahre</nobr> Erfahrung in den Bereichen
+				Starke Marken fest verankern – <br>Branding am Zürichsee.
 				</div>
-				<ul>
-					<li>– Brand Language</li>
-					<li>– Brand Identity</li>
-					<li>– Brand Portfolio</li>
-				</ul>
 				</div>
 				<a href="mailto:messages@kapteyn.space"><div class="email"></div></a>
 				<div class="slidenav slidenav_two"></div>
